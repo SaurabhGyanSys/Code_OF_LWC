@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "outcome": "Passed",
+    "testsRan": 1,
+    "passing": 1,
+    "failing": 0,
+    "skipped": 0,
+    "passRate": "100%",
+    "failRate": "0%",
+    "skipRate": "0%",
+    "testStartTime": "Wed Jul 20 2022 11:18:38 am",
+    "testExecutionTimeInMs": 38,
+    "testTotalTimeInMs": 38,
+    "commandTimeInMs": 795,
+    "hostname": "https://gyansys-e-dev-ed.my.salesforce.com",
+    "orgId": "00D5j00000BWlGfEAL",
+    "username": "saurabh.dixit@gyansys.com",
+    "testRunId": "7075j00002gJRK2",
+    "userId": "0055j000006hmc9AAA"
+  },
+  "tests": [
+    {
+      "id": "07M5j000001K5NaEAK",
+      "queueItemId": "7095j000000hCoWAAU",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7075j00002gJRK2AAO",
+      "methodName": "parentToChildTest",
+      "outcome": "Pass",
+      "apexLogId": null,
+      "apexClass": {
+        "id": "01p5j00000LsYChAAN",
+        "name": "parentToChildTest",
+        "namespacePrefix": null,
+        "fullName": "parentToChildTest"
+      },
+      "runTime": 38,
+      "testTimestamp": "2022-07-20T05:48:47.000+0000",
+      "fullName": "parentToChildTest.parentToChildTest"
+    }
+  ]
+}
